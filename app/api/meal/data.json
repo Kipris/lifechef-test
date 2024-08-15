@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "title": "Morroccan Chicken With Couscous",
+    "imageSrc": "/meal.jpg",
+    "rating": 3,
+    "comment": "",
+    "mealComponents": [
+        { "id": 1, "title": "Morrocan Chicken", "imageSrc": "/morrocan-chicken.jpg", "rating": 0, "comment": "" },
+        { "id": 2, "title": "Couscous Pilaf", "imageSrc": "/couscous-pilaf.jpg", "rating": 3, "comment": "" },
+        { "id": 3, "title": "Turkey Meatloaf", "imageSrc": "/turkey-meatloaf.jpg", "rating": 5, "comment": "" }
+    ]
+}
